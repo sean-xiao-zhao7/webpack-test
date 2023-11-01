@@ -1,2 +1,2 @@
-const message = require("message");
+const message = require("./message");
 console.log(message);
